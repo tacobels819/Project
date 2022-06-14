@@ -1,0 +1,5 @@
+C:\Users\tacob\source\repos\Podgotov\LC\bin\Debug\LC.dll
+C:\Users\tacob\source\repos\Podgotov\LC\bin\Debug\LC.pdb
+C:\Users\tacob\source\repos\Podgotov\LC\obj\Debug\LC.csprojAssemblyReference.cache
+C:\Users\tacob\source\repos\Podgotov\LC\obj\Debug\LC.dll
+C:\Users\tacob\source\repos\Podgotov\LC\obj\Debug\LC.pdb
